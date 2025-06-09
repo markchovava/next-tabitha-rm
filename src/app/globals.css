@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+
+
+
+.text__oneLight{ @apply text-[#eda6b7]}
+.text__oneDark{ @apply text-[#750b2b]}
+.text__twoLight{ @apply text-[#e7aa86]}
+.text__twoDark{ @apply text-[#9e7963]}
+
+.bg__oneLight{ @apply bg-[#eda6b7]}
+.bg__oneDark{ @apply bg-[#750b2b]}
+.bg__twoLight{ @apply bg-[#e7aa86]}
+.bg__twoDark{ @apply bg-[#9e7963]}
+
+.from__oneLight{ @apply from-[#eda6b7]}
+.from__oneDark{ @apply from-[#750b2b]}
+.from__twoLight{ @apply from-[#e7aa86]}
+.from__twoDark{ @apply from-[#9e7963]}
+
+.to__oneLight{ @apply to-[#eda6b7]}
+.to__oneDark{ @apply to-[#750b2b]}
+.to__twoLight{ @apply to-[#e7aa86]}
+.to__twoDark{ @apply to-[#9e7963]}
+
+
+
+.text__primary { @apply text-[#aa1845]; }
+.text__primaryHover { @apply text-[#750b2b]; }
+
+.bg__primary { @apply bg-[#aa1845] ; }
+.bg__primaryHover { @apply bg-[#750b2b] ; }
+
+
+
+
